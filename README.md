@@ -163,4 +163,4 @@ Use this tool only with streams and content you have permission to record, edit,
 
 ## License
 
-No license has been selected for this repository yet. Add a `LICENSE` file before inviting reuse or contributions; without a license, normal copyright restrictions apply.
+This project is licensed under the [MIT License](./LICENSE).
