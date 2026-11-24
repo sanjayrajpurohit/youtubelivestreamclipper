@@ -1,0 +1,5 @@
+yt-dlp
+faster-whisper
+numpy
+opencv-python-headless==4.10.0.84
+# system dependency (not pip): ffmpeg + ffprobe, built with libx264 and libass
